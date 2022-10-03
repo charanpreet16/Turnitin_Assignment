@@ -23,7 +23,8 @@ public class Main {
         return wordFrequencyMap;
     }
 
-    public static void main(String[] args) {
-        System.out.println(getWordFrequency("the cat is out of the bag"));
+    public static void main(String[] args){
+        String phrase = "the cat is out of the bag";
+        System.out.println(getWordFrequency(phrase));
     }
 }
