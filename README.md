@@ -2,7 +2,7 @@
 Code submission for Charanpreet for Turnitin Assignment
 
 
-The Code has been has been compiled on Local machine with Java open-jdk version 18 and will rquire Java 11 or higher to be able to use some of the 
+The Code has been has been compiled on Local machine with Java open-jdk version 18 and will require Java 11 or higher to be able to use some of the 
 components that have been used for reach the desired results. 
 
 The code should be run in a Code editor to successfully run and print the results. 
